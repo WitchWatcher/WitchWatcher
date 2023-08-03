@@ -4,6 +4,9 @@
 - 💬 Ask me about anything!
 - ❤️ I like Arch Linux, Gentoo Linux and Open BSD.
 - 🕌 Islam!
+- 👩‍🎓 Job: Student.
+- ❄️ NixOS Discourse: [Witchy](https://discourse.nixos.org/u/witchwatcher/summary)
+
 
 <div align="center">
   
