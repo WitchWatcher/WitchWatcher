@@ -5,7 +5,6 @@
 - ❤️ I like Arch Linux, Gentoo Linux and Open BSD.
 - 🕌 Islam!
 - 👩‍🎓 Job: Student.
-- ❄️ NixOS Discourse: [Witchy](https://discourse.nixos.org/u/witchwatcher/summary)
 
 
 <div align="center">
@@ -18,12 +17,12 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WitchWatcher&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w4r3s&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WitchWatcher&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=w4r3s&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WitchWatcher&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w4r3s&theme=github" />
   </a>
 </div>
