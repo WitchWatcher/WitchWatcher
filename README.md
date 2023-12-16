@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Nix, Python and cpp.
 - 💬 Ask me about anything!
 - ❤️ I like Arch Linux, Gentoo Linux and Open BSD.
-- 🕌 Islam!
-- 👩‍🎓 Job: Student.
 
 
 <div align="center">
