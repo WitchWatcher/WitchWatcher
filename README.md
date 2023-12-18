@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nix, Python and cpp.
 - 💬 Ask me about anything!
 - ❤️ I like Arch Linux, Gentoo Linux and Open BSD.
+- 🦜 Discord: w4r3s2022
 
 
 <div align="center">
